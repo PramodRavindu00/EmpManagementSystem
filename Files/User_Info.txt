@@ -1,0 +1,3 @@
+admin admin123 Admin
+ast1 ast123 Assistant
+manager 12345 Manager
